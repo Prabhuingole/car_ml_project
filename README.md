@@ -1,3 +1,4 @@
+I Built a Real-Time Number Plate Detector with Python and OpenCV, and You Can Too: Detailed Guide
 Real-Time Number Plate Detection using OpenCV
 This project uses Python and OpenCV to detect car number plates in real-time from a webcam feed. It identifies the plate region, draws a bounding box around it, and offers the functionality to save the detected plate as an image.
 
